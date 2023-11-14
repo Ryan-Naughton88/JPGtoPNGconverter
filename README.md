@@ -13,7 +13,7 @@ The **JPG to PNG Converter** is a Python tool designed to convert JPG files to P
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/jpg-to-png-converter.git
+   git clone https://github.com/Ryan-Naughty/jpg-to-png-converter.git
    cd jpg-to-png-converter
    ```
 
