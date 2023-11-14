@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **JPG to PNG Converter** is a Python tool designed to convert JPG files to PNG format. The tool allows you to specify the source folder path (default is "Pokedex") and the output folder where the converted PNG files will be saved. The conversion is carried out using the [Pillow](https://pillow.readthedocs.io/en/stable/) library, a powerful image processing library for Python.
+The **JPG to PNG Converter** is a Python tool designed to convert JPG files to PNG format. The tool allows you to specify the source folder path (in my case it is "Pokedex") and the output folder where the converted PNG files will be saved. The conversion is carried out using the [Pillow](https://pillow.readthedocs.io/en/stable/) library, a powerful image processing library for Python.
 
 ## Requirements
 
