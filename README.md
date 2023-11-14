@@ -27,9 +27,9 @@ The **JPG to PNG Converter** is a Python tool designed to convert JPG files to P
 1. **Run the Converter:**
    - Execute the following command in the terminal, specifying the source folder path and the output folder:
      ```bash
-     python JPGtoPNGconverter.py (pokedex_path) (output_folder)
+     python JPGtoPNGconverter.py (JPG_path) (output_folder)
      ```
-     - Replace `(pokedex_path)` with the path to the folder containing the JPG files.
+     - Replace `(JPG_path)` with the path to the folder containing the JPG files.
      - Replace `(output_folder)` with the path where you want to save the converted PNG files.
 
 2. **Example:**
